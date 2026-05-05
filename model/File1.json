@@ -23,6 +23,14 @@
       "title": "Marketing Specialist",
       "email": "marcus.lee@example.com",
       "hireDate": "2023-01-08"
+    },
+    {
+      "id": 228,
+      "name": "Marcus Lee",
+      "department": "Marketing",
+      "title": "Marketing Specialist",
+      "email": "marcus.lee@example.com",
+      "hireDate": "2023-01-08"
     }
   ]
 }
