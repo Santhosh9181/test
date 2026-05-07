@@ -1,0 +1,18 @@
+{ "vegetables": [
+    {
+      "name": "Carrot",
+      "color": "Orange",
+      "taste": "Sweet"
+    },
+    {
+      "name": "Broccoli",
+      "color": "Green",
+      "taste": "Bitter"
+    },
+    {
+      "name": "Spinach",
+      "color": "Green",
+      "taste": "Bitter"
+    }
+  ]
+}
