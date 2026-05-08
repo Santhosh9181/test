@@ -13,6 +13,11 @@
       "name": "Spinach",
       "color": "Green",
       "taste": "Bitter"
+    },
+    {
+      "name": "Sweet Potato",
+      "color": "Orange",
+      "taste": "Sweet"
     }
   ]
 }
